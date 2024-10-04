@@ -8,3 +8,4 @@ Reach me on **emezieugwuozor@gmail.com** if you wish to discuss this project fur
 Thanks to Dr. Becky Seifried, Geospatial Information Librarian, UMass Amherst Libraries for guidance and mentorship
 
 Thanks to SimpleMaps US City Database for making the data available.
+[View_Interactive_Map](https://classiccollins.github.io/Sunrise-Sunset-Times-and-Population-Data-for-US-Cities/#4/38.03/-96.06)
